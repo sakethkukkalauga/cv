@@ -1,0 +1,84 @@
+body{
+    text-align : center ;
+    background-color: grey;
+    font-family: "Indie Flower";
+    font-size: 20px;
+}
+.toppage{
+    background-color: rgba(184, 155, 155, 0.473);
+}
+.mypic img {
+    border-radius: 50%;
+  }
+.Languages{
+    text-align: left;
+    column-count: 2;
+    float: left;
+    padding-left: 200px;
+    padding-right:250px;
+}
+.Leader{
+    text-align: left;
+    column-count: 2;
+    float: left;
+    padding-left: 150px;
+    padding-right:250px;
+}
+.Skill{
+    text-align: left;
+    column-count: 2;
+    float: left;
+    padding-left: 200px;
+    padding-right:450px;
+}
+h2{
+    color: rgba(238, 84, 84, 0.562);
+    font-family: "Roboto";
+    font-size:30px;
+}
+h3{
+    color: rgba(238, 84, 84, 0.562);
+
+}
+.bottomsecpage{
+    background-color:rgba(238, 84, 84, 0.562);
+    border:none;
+    text-align:center;
+    text-decoration:none;
+    color: grey;
+    padding:5px 10px;
+    display:inline-block;
+}
+hr{
+    border:none;
+    border-top:dashed;
+    width:25%;
+}
+ul {
+  list-style-type: none;
+}
+a{
+    color: rgba(238, 84, 84, 0.562);
+    text-decoration: none;
+}
+a:hover{
+    color:black;
+}
+.foot{
+    border: none;
+    border-top:solid;
+    background-color: rgba(184, 155, 155, 0.473);
+    height:70px;
+   
+    
+}
+.footing{
+    border-top:solid;
+    border:none;
+}
+.contactformpage{
+    text-align: center;
+}
+.contactColorChange{
+    color: rgba(238, 84, 84, 0.562);
+}
